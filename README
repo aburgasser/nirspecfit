@@ -1,0 +1,10 @@
+IDL code nirspecfit
+
+written by Adam Burgasser 2012-2013
+
+function: analyzes nirspec spectral data by fitting models and inferring
+best parameters, including vsini, RV, telluric absorption, continuum,
+and model parameters.
+
+Based on Blake et al. 2010
+
